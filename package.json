@@ -1,0 +1,23 @@
+{
+  "name": "school-npmcourse",
+  "version": "1.0.0",
+  "description": "Basis about NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/losthakkun/School-NPMcourse.git"
+  },
+  "author": "Alejandro Núñez Segoviano <losthakkun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/losthakkun/School-NPMcourse/issues"
+  },
+  "homepage": "https://github.com/losthakkun/School-NPMcourse#readme",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "moment": "^2.29.1"
+  }
+}
